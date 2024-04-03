@@ -1,0 +1,2 @@
+# Javas-scifi
+Apps configuration 
